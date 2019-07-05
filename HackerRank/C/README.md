@@ -30,7 +30,7 @@
 | [Array Reversal](https://www.hackerrank.com/challenges/reverse-array-c/problem) | [C](https://github.com/clfm/HackerRank/blob/master/C/Arrays%20and%20Strings/Array%20Reversal/solution.c) |
 | [Printing Tokens](https://www.hackerrank.com/challenges/printing-tokens-/problem) | [C](https://github.com/clfm/HackerRank/blob/master/C/Arrays%20and%20Strings/Printing%20Tokens/solution.c) |
 | [Digit Frequency](https://www.hackerrank.com/challenges/frequency-of-digits-1/problem) | [C](https://github.com/clfm/HackerRank/blob/master/C/Arrays%20and%20Strings/Digit%20Frequency/solution.c) |
-| [Dynamic Array in C](https://www.hackerrank.com/challenges/dynamic-array-in-c/problem) | Unsolved |
+| [Dynamic Array in C](https://www.hackerrank.com/challenges/dynamic-array-in-c/problem) | [C](https://github.com/clfm/Programming-Exercises/blob/master/HackerRank/C/Arrays%20and%20Strings/Dynamic%20Array%20in%20C/solution.c) |
 
 
 ## Functions
@@ -39,10 +39,10 @@
 |-|:-:|
 | [Calculate the Nth term](https://www.hackerrank.com/challenges/recursion-in-c/problem) | [C](https://github.com/clfm/HackerRank/blob/master/C/Functions/Calculate%20the%20Nth%20term/solution.c) |
 | [Students Marks Sum](https://www.hackerrank.com/challenges/students-marks-sum/problem) | [C](https://github.com/clfm/HackerRank/blob/master/C/Functions/Students%20Marks%20Sum/solution.c) |
-| [Sorting Array of Strings](https://www.hackerrank.com/challenges/sorting-array-of-strings/problem) | Unsolved |
+| [Sorting Array of Strings](https://www.hackerrank.com/challenges/sorting-array-of-strings/problem) | [C](https://github.com/clfm/Programming-Exercises/blob/master/HackerRank/C/Functions/Sorting%20Array%20of%20Strings/solution.c) |
 | [Permutations of Strings](https://www.hackerrank.com/challenges/permutations-of-strings/problem) | [C](https://github.com/clfm/HackerRank/blob/master/C/Functions/Variadic%20functions%20in%20C/solution.c) |
-| [Variadic functions in C](https://www.hackerrank.com/challenges/variadic-functions-in-c/problem) | Unsolved |
-| [Querying the Document](https://www.hackerrank.com/challenges/querying-the-document/problem) | Unsolved |
+| [Variadic functions in C](https://www.hackerrank.com/challenges/variadic-functions-in-c/problem) | [C]([https://github.com/clfm/Programming-Exercises/tree/master/HackerRank/C/Functions/Variadic%20functions%20in%20C) |
+| [Querying the Document](https://www.hackerrank.com/challenges/querying-the-document/problem) | [C](https://github.com/clfm/Programming-Exercises/tree/master/HackerRank/C/Functions/Querying%20The%20Document/solution.c) |
 
 
 ## Structs and Enums
@@ -50,6 +50,6 @@
 | Challenge | Solution |
 |-|:-:|
 | [Boxes through a Tunnel](https://www.hackerrank.com/challenges/too-high-boxes/problem) | [C](https://github.com/clfm/HackerRank/blob/master/C/Structs%20and%20Enums/Boxes%20through%20a%20Tunnel/solution.c) |
-| [Small Triangles, Large Triangles](https://www.hackerrank.com/challenges/small-triangles-large-triangles/problem) | Unsolved |
+| [Small Triangles, Large Triangles](https://www.hackerrank.com/challenges/small-triangles-large-triangles/problem) | [C](https://github.com/clfm/Programming-Exercises/blob/master/HackerRank/C/Structs%20and%20Enums/Small%20Triangles%2C%20Large%20Triangles/solution.c) |
 | [Post Transition](https://www.hackerrank.com/challenges/post-transition/problem) | Unsolved |
-| [Structuring the Document](https://www.hackerrank.com/challenges/structuring-the-document/problem) | Unsolved |
+| [Structuring the Document](https://www.hackerrank.com/challenges/structuring-the-document/problem) | [C](https://github.com/clfm/Programming-Exercises/blob/master/HackerRank/C/Structs%20and%20Enums/Structuring%20the%20Document/solution.c) |
